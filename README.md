@@ -1,6 +1,8 @@
 Ansible NGINX OSS Role
 ======================
 
+[![Build Status](https://travis-ci.org/nginxinc/ansible-role-nginx-oss.svg?branch=master)](https://travis-ci.org/nginxinc/ansible-role-nginx-oss)
+
 This role installs NGINX OSS on your target host. It supports most CentOS/RHEL/Debian/Ubuntu/SLES distributions.
 
 Requirements
